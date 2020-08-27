@@ -1,0 +1,20 @@
+{
+  "name": "JCC Producciones - Svelte - Tailwind - Template",
+  "short_name": "https://github.com/corbaz",
+  "icons": [
+    {
+      "src": "img/icons/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "img/icons/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#FFCD05",
+  "theme_color": "#FFCD05"
+}

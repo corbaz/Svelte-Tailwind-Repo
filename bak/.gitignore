@@ -1,0 +1,42 @@
+# ./dist
+dist
+
+# Modulos de Nodejs
+node_modules
+
+# npm
+package-lock.json
+
+# Variables de Entorno (environment)
+.env.development
+.env.production
+
+# Archivos de MAC
+.DS_Store
+
+# local env files
+.env.local
+.env.*.local
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor - directorio y archivos
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Extras
+TODO.md
+deploy.sh
+public/bundle.*
+public/components.*
+public/service-worker.js
+public/utils.*
+
