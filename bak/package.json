@@ -32,7 +32,7 @@
     "watch": "rollup -c -w",
     "serve": "serve -p 3000 public",
     "start": "npm-run-all --parallel serve watch",
-    "copy": "npm run build && cd public && surge --domain notebo-ok.surge.sh",
+    "notebo-ok": "npm run build && cd public && surge --domain notebo-ok.surge.sh",
     "corbaz": "npm run build && cd public && surge --domain corbaz.surge.sh"
   }
 }
